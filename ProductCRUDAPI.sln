@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductCRUDAPI", "ProductCRUDAPI.csproj", "{D58D6251-001B-4D59-B007-A2DB3841FEAA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{03FC3233-48D7-4FA3-8A43-6CADA93A4CFC}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D58D6251-001B-4D59-B007-A2DB3841FEAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D58D6251-001B-4D59-B007-A2DB3841FEAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D58D6251-001B-4D59-B007-A2DB3841FEAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D58D6251-001B-4D59-B007-A2DB3841FEAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5341FF3-32F4-4F07-8C67-0AF499C749CB}
+	EndGlobalSection
+EndGlobal
